@@ -4,5 +4,4 @@ echo json_encode([
     "hora" => date("H:i:S"),
     "servidor" => gethostname()
 ]);
-
 ?>
